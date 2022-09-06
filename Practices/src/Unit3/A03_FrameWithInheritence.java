@@ -9,6 +9,7 @@ package Unit3;
  *
  * @author phuya
  */
+//what the heck
 import java.awt.*;
 import java.awt.event.*;
 public class A03_FrameWithInheritence extends Frame{
